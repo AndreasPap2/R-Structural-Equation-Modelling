@@ -1,5 +1,5 @@
 # R-Structural-Equation-Modelling
-
+***for the report please contact me via email***
 
 SEM: In this project after days of brainstorming and the use of Structural Equations, I tried to answer the following question: "What is the impact of the human values on institutional trust in Baltic countries and are there any differences between these countries?".
 
